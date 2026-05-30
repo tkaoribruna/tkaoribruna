@@ -1,7 +1,7 @@
 ## Olá! Seja bem-vindo ao meu perfil do Github!
 
 ### Sobre Mim
-  Me chamo Bruna Kaori e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Tecnológica Federal do Paraná(UTFPR) | Desenvolvedora de Software em treinamento 💻
+  Me chamo Bruna Kaori e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Tecnológica Federal do Paraná(UTFPR) 
 
 
 ### Entre em contato:
