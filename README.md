@@ -6,7 +6,7 @@ Me chamo **Bruna Kaori Takuti** e sou natural do estado do **Paraná**. Atualmen
 Tenho interesse em **desenvolvimento web**, **UI/UX** e **banco de dados**, buscando criar soluções funcionais e intuitivas. Estou sempre em busca de novos conhecimentos, aprimorando minhas habilidades por meio de estudos e projetos práticos para evoluir como desenvolvedora.
 
 ### Entre em contato:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-kaori-takuti-15a536391)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-kaori-takuti-524684333/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkaoribruna@gmail.com)
 
 ### Tecnologias e Ferramentas
